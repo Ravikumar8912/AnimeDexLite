@@ -1,5 +1,5 @@
 home = "https://gogoanime3.net"
-host = "https://animedex.pages.dev"
+host = "https://Ravikumar8912.github.io/AnimeDexLite"
 
 import requests
 from bs4 import BeautifulSoup as bs
